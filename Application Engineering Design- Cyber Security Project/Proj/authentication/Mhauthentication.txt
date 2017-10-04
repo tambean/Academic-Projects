@@ -1,8 +1,0 @@
-Authentication File containing user credentials in below format
-UserName = Password 
-
-doc=Doc@123
-lab=Lab@123
-rec=Rec@123
-info=Info@123
-data=Data@123
